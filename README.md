@@ -3,7 +3,7 @@
 ## Настройка перед работой
 * Создать файл gs_creds.json с данными для доступа к GoogleSheets (см. gs_creds.example.json)
 * Создать файл token.txt с токеном бота (см. token.example.txt)
-* Создать файл manager_id.txt (см. manager_id.example.txt)
+* Создать файл manager_id.txt c id менеджера (см. manager_id.example.txt)
 * В любом месте в документе GS в одну строку прописать заголовки столбцов(скопировать):
     - <code>tel_id</code>
     - <code>Текст</code>
